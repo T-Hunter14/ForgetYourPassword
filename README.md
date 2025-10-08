@@ -77,6 +77,3 @@ else:
 - password_generator.py: PBKDF2-HMAC-SHA256 derivation, character mapping, and deterministic shuffling logic.
 - utils.py: Optional clipboard helpers to copy or clear passwords via pyperclip.
 
-### Assets
-
-- Save this README as assets/README.md to keep documentation alongside other project resources and assets in the repository.
